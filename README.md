@@ -1,2 +1,2 @@
-# Welcome to my first repository
-This is my first repository as a full-stack engineer. It's called zero day and it's an ALX PROJECT.
+# zero_day Repository
+This repository contains projects and exercises related to various DevOps tasks.
